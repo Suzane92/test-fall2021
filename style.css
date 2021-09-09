@@ -1,0 +1,22 @@
+body {
+   background-color: darkgrey;
+   color:indigo;
+   font-family:Arial, Helvetica, sans-serif;
+}
+h1{ 
+    font-size:50px;
+    font-weight: normal;
+    font-style:italic;
+    line-height: 30px;
+}
+ol li {
+    background: white;
+    padding:8px 16px 24px;
+    margin-bottom: 4px;
+    margin-right: 20px ;
+    float: left;
+    width:28%
+}    
+ul li.item-1 {
+    background:blue;
+}
